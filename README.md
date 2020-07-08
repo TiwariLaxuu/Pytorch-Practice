@@ -1,13 +1,21 @@
 # Pytorch-Practice
 ##What is pytorch?
   -Both developer and researcher use 
+  
   -Computer vision uses 
+  
   -Replacement of numpy
+  
   -Very high performance on GPUs with CUDA
+  
   -Extensive neural network building blocks 
+  
   -Built-in backpropagation with “autograd”
+  
   -A simple, intuitive API library
+  
   -Based on LUA programming language
+  
   -Simplicity so uses 
 
 
